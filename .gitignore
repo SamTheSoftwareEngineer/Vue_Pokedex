@@ -1,0 +1,5 @@
+.DS_Store
+.vscode
+backend /venv
+backend /pokedex_project/manage.py
+backend /pokedex_project/pokedex_project/__pycache__
